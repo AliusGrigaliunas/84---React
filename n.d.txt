@@ -3,7 +3,7 @@
     https://reactjs.org/docs/state-and-lifecycle.html +
 
   Peržiūrėti:
-    https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified
+    https://www.youtube.com/watch?v=O6P86uwfdR0&ab_channel=WebDevSimplified +
 
   
   Skurkite naują React-TS projektą ir perdarykite šį puslapį naudojant stiliaus modulio failus:
